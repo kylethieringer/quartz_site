@@ -1,0 +1,74 @@
+---
+aliases:
+  - poster session II
+title: CSHL Neurobiology of Drosophila poster session II
+publish: "true"
+timestamp: 2023-12-11 09:58
+---
+
+
+- ==181==
+	- **Looming detection invariance in Drosophila descending neurons** 
+	- HyoJong Jang
+	- DNp01 (giant fiber), DNp03, and DNp06 all respond to looming but how do they respond to contralateral looming?
+	- DNp01 and DNp06 respond to looming on both sides and the timing is almost exactly the same no matter which side
+		- this suggests that there is contralateral connection in the brain rather than an ascending signal back up to the brain to talk to the other side
+	- The speculation is that the fly wants to jump or takeoff as quickly as possible if a predator is coming and then can figure out turning direction once flying
+- 190
+	- **Complementary dynamics of two central complex local neuron populations support goal-directed olfactory navigation**
+	- Nicholas Kathman (Nagel Lab)
+	- studying complex odor plume navigation
+	- hΔCK has a bump of activity that they think corresponds to goal directed straight walking
+		- it is only active when the odor turns on, it turns towards the odor then walks straight
+	- hΔCK spans across all of the columns of the fan shaped body
+	- FC1 is an interneuron that is active only transiently during a turn toward the odor but cannot predict direction of turn from the activity
+	- hΔCK has sustained activity probably because of recurrence in the FB
+	- both FC1 and hΔCK are necessary for the odor tracking behavior
+- ==206==
+	- **Investigating the visual motion processing neurons in Drosophila**
+	- Sanna Koskela (Michael Reiser Lab)
+	- characterizing LPTs - which receive input from T4/T5 cells and their role in optomotor response
+	- used flywire to look at the morphology and the NT predictions (but they say the full optic lobe connectome is coming out soon)
+	- for all the lines they were able to make splits of, they silenced and then presented different visual stims - grating, spin, looming, etc
+	- no clear definitive result silencing single LPTs being necessary for optomotor response 
+		- this might be because of redundancy or developmental reasonings (silencing with Kir)
+- 237
+	- **Lighting up the fly brain-High fidelity all optical interrogation of the drosophila neural circuits**
+	- Nino Mancini (Salil Bidaye lab)
+	- No poster
+- 253
+	- **Dopamine desensitization demotivates repeated behaviors**
+	- Lauren Miner
+- 262
+	- **Functional labeling of individualized postsynaptic neurons using optogenetics and trans-Tango (FLIPSOT)**
+	- Lina Ni
+	- express a presynaptic Gal4 UAS-ligand. the ligand then binds to the post synaptic receptor which releases a QF  and expresses a QUAS reporter in the post synaptic cell. 
+	- then you also add in a QUAS>stop>Chr or ACR to then stochastically label some of the post synaptic cells through a hsFLP and titrating different temps to get different amounts of FLP activity
+	- then you have to stain and image the brain to see which neurons were labeled
+- ==270==
+	- **Taste and courtship song are integrated to drive social interaction in Drosophila males**
+	- Adrian Palacios Munoz (Jan Clemens Lab)
+	- males start tapping earlier if they hear song
+		- and require more taps to initiate courtship when listening to song
+		- other aspects of tapping and courtship initiation also tested
+	- song suppresses courtship initiation
+	- playing song promotes male-male courtship
+	- song may override the taste cues from males 
+	- male - female interactions are linearly integrated (song and taste)
+- 286
+	- **Genetic tools to annotate the electrical and chemical synapses of the Drosophila brain**
+	- Thomas Ravenscroft (Gerry Rubin lab)
+	- EASI-FISH to find transcription profiles of neuropeptides and innexins
+	- building nanotags for neuropeptides
+	- everything should be available online
+- ==290==
+	- **Is love blind? Mating probability gates threat perception**
+	- Carolina Rezaval
+	- testing escape / defensive behaviors in response to a looming threat
+	- LC16 responds to the threat
+	- looked for post synaptic targets that would mediate this stopping of courtship and found serotonergic neurons
+		- LC16 activates the serotonergic neurons which inhibit P1 and indirectly inhibit pip10
+	- they realized that the longer the male has been courting the less likely he is to stop in response to the threat and wanted to know how this was happening
+		- found that there is a ramp of activity in TH-C1 neurons during courtship
+		- this ramp in activity was just driven by abdomen bending, female not required 
+	- I forget the experiment they did to test it but they also found that TH-C1 inhibits LC16

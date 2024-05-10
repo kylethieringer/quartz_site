@@ -8,6 +8,8 @@ i will not be publishing data, results, or anything really from my lab notebook.
 ## current
 [[§ electrophysiology of premotor neurons]] 
 [[§ NURP projects]]
+
+[[§ spruce farm]]
 ## past
 [[§ construct building in strongyloides]] 
 [[§ population constraints on individuals]]

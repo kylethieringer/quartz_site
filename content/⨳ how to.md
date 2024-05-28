@@ -20,10 +20,19 @@ timestamp: 2023-12-11 00:54
 [[how to use obsidian]]
 ## protocols
 ---
-[[point spread function protocol]]
-[[maui setup protocol]]
-[[extracellular saline protocol]]
+**behavior**
 [[ATR preparation]]
+
+**imaging**
+[[maui setup protocol]]
+[[point spread function protocol]]
+
+**electrophysiology**
+[[electrophysiology preparation]]
+
+**misc**
+[[extracellular saline protocol]]
+
 ## computational
 ---
 [[how to run jupyter on hpc cluster]]

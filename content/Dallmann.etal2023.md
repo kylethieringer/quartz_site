@@ -1,15 +1,15 @@
 ---
-paper_title: "Presynaptic inhibition selectively suppresses leg proprioception in behaving <i>Drosophila</i>"
-year: '2023'
-authors: "Chris J. Dallmann, Sweta Agrawal, Andrew Cook, Bingni W. Brunton, John C. Tuthill"
+paper_title: Presynaptic inhibition selectively suppresses leg proprioception in behaving Drosophila
+year: "2023"
+authors: Chris J. Dallmann, Sweta Agrawal, Andrew Cook, Bingni W. Brunton, John C. Tuthill
 type: literature note
-note date: '2024-05-03'
+note date: 2024-05-03
 modified: 
 summary: 
-tags: []
+tags: 
 status:
 ---
-# Presynaptic inhibition selectively suppresses leg proprioception in behaving <i>Drosophila</i>
+# Presynaptic inhibition selectively suppresses leg proprioception in behaving Drosophila
 **authors**: *Chris J. Dallmann, Sweta Agrawal, Andrew Cook, Bingni W. Brunton, John C. Tuthill*
 **doi**: 10.1101/2023.10.20.563322
 

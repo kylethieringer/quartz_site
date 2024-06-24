@@ -16,7 +16,5 @@ if you have thoughts about anything I've written or not written let [[kyle thier
 ## up next
 ---
 - [ ] [[§ so you want to be a drosopholist]]
-- [ ] [[§ so you want to be a nemotologist]]
 - [ ] thoughts about authorship
 - [ ] creating deadlines and sticking to them
-- [x] update [[§ NURP projects]] ✅ 2024-04-29

@@ -4,6 +4,7 @@ publish: "true"
 timestamp: 2024-01-06 23:02
 tags:
 ---
+i dont think ill be updating this much. probably just the molecular biology because those are ubiquitous for sciencing.
 ## basics
 - good introduction to nematodes : [[Schafer2016]]
 - [[the nematode nervous system is simply organized]]

@@ -14,7 +14,7 @@ zebrafish typically swim in bouts as opposed to smooth continuous motion. volume
 importantly they also show that these neurons are separate from the visually evoked stimuli during self motion (like [[optic flow]] kinda stuff?). what are these (im assuming) parallel pathways?
 
 
-#🐛  
+#🐛  #🌱 
 ## references
 ---
 [[Kappel.etal2022]]

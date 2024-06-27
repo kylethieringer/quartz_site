@@ -15,7 +15,7 @@ rGCs are the thermosensors themselves in s stercoralis as well ([[Bryant.etal202
 rGCs are also used for chemotaxis behaviors in c elegans (and most likely strongyloides as well just hasnt been tested)
 
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 Takeishi, A., Yu, Y. V., Hapiak, V. M., Bell, H. W., O’Leary, T., & Sengupta, P. (2016). Receptor-type Guanylyl Cyclases Confer Thermosensory Responses in C. elegans. _Neuron_, _90_(2), 235–244. [https://doi.org/10.1016/j.neuron.2016.03.002](https://doi.org/10.1016/j.neuron.2016.03.002)

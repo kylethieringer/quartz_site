@@ -10,7 +10,7 @@ This vastly different temperature encoding highlights a huge evolutionary transi
 ![[Bryant.etal2022_image-5-x88-y374.png]]
 - Top traces are calcium imaging from c elegans AFD neurons. Note monotonic bump of activity. bottom traces are s. stercoralis AFD neuron calcium. note initial decrease then linear increase.
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 [[Bryant.etal2022]]

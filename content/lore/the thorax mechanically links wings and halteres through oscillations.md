@@ -8,7 +8,7 @@ the thorax oscillates very rapidly to help coordinate the fast frequency of wing
 There is one caveat to this adaptation though. coupling wings to the thorax is helpful for general flight but constrains wings from moving independently, which is needed for steering.
 
 
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 [[Sane2016]]

@@ -7,6 +7,6 @@ ions of different species travel through channels to form an equilibrium. differ
 
 
 
-#🥚 
+#🥚 #🌱 
 ## references
 ---

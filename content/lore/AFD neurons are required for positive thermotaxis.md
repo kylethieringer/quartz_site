@@ -8,7 +8,7 @@ timestamp: 2024-03-10 15:40
 ![[Bryant.etal2022_image-3-x362-y467.png]]
 - silencing with histamine gated chloride channel (HisCl) expressed in AFD neurons. Adding histamine conditionally silences the neurons but may have other effects since you have to bathe the worms in a histamine solution which doesnt sound super fun. 
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 [[Bryant.etal2022]]

@@ -1,5 +1,5 @@
 ---
-title: a maximum entropy model predicts behavior without assumptions or free parameters
+title: maximum entropy model for group dynamics
 tags:
   - 🥚
   - 🌱

@@ -14,9 +14,7 @@ the central nervous system of the nematode contains:
 - [[somatic muscles]]
 - probably some other components 
 
-
-
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 [[Schafer2016]]

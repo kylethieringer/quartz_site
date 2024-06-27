@@ -7,7 +7,7 @@ timestamp: 2024-05-27 22:36
 
 size of the molecule still doesnt tell the full story. see [[pore theory explains channel selectivity]]
 
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 Kandel, E. R., Koester, J., Mack, S., & Siegelbaum, S. (Eds.). (2021). _Principles of neural science_ (Sixth edition). McGraw Hill.

@@ -8,7 +8,7 @@ timestamp: 2023-12-11 09:35
 Neuron classes with at least one serotonin receptor are more likely to be associated with NSM activity, however the correlations with NSM activity cannot be fully predicted by the serotonin receptor expression. Neuron classes with presynaptic inputs that also express[[ serotonin receptors]] are more likely to be associated with NSM activity.
 
 Therefore, in addition to the brain dynamics that NSM activity directly influences, the larger network of serotonin signaling can influence the NSM-associated brain dynamics. 
-
+#🥚 #🌱 
 ### References
 ---
 1. [[Dag.etal2023]]

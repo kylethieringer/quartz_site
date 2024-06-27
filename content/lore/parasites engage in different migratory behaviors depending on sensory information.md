@@ -12,7 +12,7 @@ or when there is a temperature gradient (more direct locomotion):
 ![[attachments/Bryant.etal2018_image-3-x48-y607.png]]
 
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 [[Bryant.etal2018]]

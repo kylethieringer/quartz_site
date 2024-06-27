@@ -16,7 +16,7 @@ the dorsal thalamic neurons are 2 steps from retinal ganglion cells and send pro
 what would happen in group of fish with these cells ablated? does shoaling emerge from other contextual cues in a nonvirtual environment?
 
 
-#🐛  
+#🐛  #🌱 
 ## references
 ---
 [[Kappel.etal2022]]

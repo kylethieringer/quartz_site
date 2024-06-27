@@ -20,7 +20,7 @@ in females, [[pC1 neurons]] also drive arousal state
 
 
 
-#🥚 | [[§ waggling]]
+#🥚 #🌱 | [[§ waggling]]
 ## references
 ---
 [[Sten.etal2023]]

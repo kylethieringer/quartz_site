@@ -12,7 +12,7 @@ exposure to attractive odor results in local search behavior toward odor source.
 this could either be because temperature is a better predictor for a host, or this specific "attractive odor" wasnt the strongest... because some worms in panel A dont even go towards the odor?
 
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 [[Bryant.etal2018]]

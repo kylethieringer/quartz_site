@@ -8,6 +8,6 @@ I first heard "lore drop" from friends sitting around a table at the College Inn
 
 lore drops is just a fun alternative to 'publishing notes'. 
 
-considering the mythological namesake of this space, lore drops felt fitting as the seeds of [[mimir]] 
+considering the mythological namesake of this space, lore drops felt fitting as the seeds of [[lore/mimir]] 
 
 #🦋 

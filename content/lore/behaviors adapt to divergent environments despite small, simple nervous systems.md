@@ -9,9 +9,7 @@ one possibility for this adaptation is that individual neurons alter functional 
 
 another option is that there is distinct synaptic connectivity between species which drives the unique behaviors in response to the various environments
 
-
-
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 [[Schafer2016]]

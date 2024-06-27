@@ -7,7 +7,7 @@ molecular disruption of [[tax-4 gene]] with CRISPR cas9 disrupts positive thermo
 
 ![[attachments/Bryant.etal2018_image-8-x56-y332.png]]
 
-#🐛 
+#🐛 #🌱 
 ## references
 ---
 [[Bryant.etal2018]]

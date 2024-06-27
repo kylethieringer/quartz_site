@@ -7,7 +7,7 @@ insects have a clutch like mechanism to engage or disengage each wing from the t
 
 they also have wing hinges, thoracic plates, and sclerites which allow for many degrees of freedom for wing movements. due to size constraints, miniature insects have less thoracic plates and sclerites which reduces freedom of movement for wings.
 
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 [[Sane2016]]

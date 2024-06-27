@@ -11,9 +11,7 @@ comparing c. elegans to ascaris (2 different clades) - separated by 500 million 
 
 this shows invariance of nervous systems (and stereotypy) across nematode species
 
-
-
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 [[Schafer2016]]

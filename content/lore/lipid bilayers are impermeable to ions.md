@@ -7,7 +7,7 @@ there is a small charge in water molecules that strongly attracts cations to the
 
 [[an ion's water shell contributes to ion channel selectivity]]
 
-#🥚 
+#🥚 #🌱 
 ## references
 ---
 Kandel, E. R., Koester, J., Mack, S., & Siegelbaum, S. (Eds.). (2021). _Principles of neural science_ (Sixth edition). McGraw Hill.

@@ -10,4 +10,4 @@ there are roughly 1860 ascending neurons identified in [[MANC]]
 #🥚
 ## references
 ---
-[[Cheong.etal2024a]]
+[[Cheong.etal2024]]

@@ -14,7 +14,6 @@ status:
 publish: "true"
 timestamp: 2023-12-11 01:13
 ---
-
 # Optogenetic dissection of descending behavioral control in Drosophila
 **authors**: *Jessica Cande, Shigehiro Namiki, Jirui Qiu, Wyatt Korff, Gwyneth M Card, Joshua W Shaevitz, David L Stern, Gordon J Berman*
 **doi**: 10.7554/eLife.34275
@@ -63,7 +62,7 @@ timestamp: 2023-12-11 01:13
 - all experimental animals showed at least some mutual information
 	- the flies activity prior to the red light activation influenced whether or not it performed the behavior
 
-- descending neurons drive stereotyped behaviors
+- [[descending neurons]] drive stereotyped behaviors
 
 - [[entropy reduction in low dimensional map reveals stereotyped behaviors]]
 - [[behavioral entropy is a readout of behavioral repertoire]]

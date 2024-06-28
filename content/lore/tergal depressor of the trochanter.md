@@ -8,4 +8,4 @@ The tergal depressor of the trochanter muscles are a bilateral pair of large tub
 #🥚 
 ## references
 ---
-[Levine & Tracey 1973](https://doi.org/10.1007/BF00696043)
+Levine, J., & Tracey, D. (1973). Structure and function of the giant motorneuron ofDrosophila melanogaster. _Journal of Comparative Physiology_, _87_(3), 213–235. [https://doi.org/10.1007/BF00696043](https://doi.org/10.1007/BF00696043)

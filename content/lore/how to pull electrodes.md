@@ -18,7 +18,7 @@ it is good practice to organize electrodes from big to small
 - large cleaning electrodes are good for doing the majority of stuff and then smaller ones are good for more detailed work
 
 
-#🥚 
+#🥚 | [[⨳ how to]]
 
 ## references
 ---

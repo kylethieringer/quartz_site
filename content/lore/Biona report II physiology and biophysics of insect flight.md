@@ -1,3 +1,9 @@
+---
+title: Biona report II physiology and biophysics of insect flight
+publish: "true"
+timestamp: 2024-06-28 13:31
+---
+this is a collection of symposium papers -- (conference papers?) -- all about flight of insects. I think this will be a good reference to go back to to answer questions about early flight
 ## notes
 ---
 
@@ -28,4 +34,8 @@ cpgs in flight
 
 
 - Pabst 1965
-- 
+
+#🥚 
+## references
+---
+Nachtigall W (ed) BIONA Report 2, Physiology and biophysics of insect flight. Fischer, Stuttgart New York

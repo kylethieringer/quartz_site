@@ -29,6 +29,7 @@ timestamp: 2023-12-11 00:54
 
 **electrophysiology**
 [[electrophysiology preparation]]
+[[how to pull electrodes]]
 
 **misc**
 [[extracellular saline protocol]]

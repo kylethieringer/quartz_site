@@ -8,4 +8,4 @@ octopamine is the insect analogue of norepinephrine
 #🥚 
 ## references
 ---
-[[Mamiya.etal2012]]
+[[Suver.etal2012]]

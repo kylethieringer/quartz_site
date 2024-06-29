@@ -5,6 +5,7 @@ timestamp: 2023-12-20 16:40
 tags:
   - 🐛
 ---
+a rotation project in Sama Ahmed's lab
 ## project overview
 
 Canonically, when approaching systems neuroscience questions, we often take a bottom up approach. This approach considers a single player and positioning it within the rest of the population. Consider a flock of starlings that display beautiful murmurs:

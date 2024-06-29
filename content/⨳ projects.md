@@ -15,7 +15,7 @@ i will not be publishing data, results, or anything really from my lab notebook 
 
 ---
 ## past
-[[§ electrophysiology of premotor neurons]] 
+[[§ electrophysiology of a reflex circuit]] 
 [[§ construct building in strongyloides]] 
 [[§ population constraints on individuals]]
 [[§ waggling]]

@@ -10,5 +10,6 @@ NURP stands for neuroscience undergraduate reading program. I meet once per week
 [[winter 2024 with kailee]]
 [[autumn 2023 with nico]]
 
+#🌱 | [[⨳ projects]]
 ## helpful links
 [[how to give a short scientific presentation]]

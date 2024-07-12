@@ -8,7 +8,7 @@ timestamp: 2024-04-08 23:35
 
 **graph view** is useful to explore notes and their connections but I dont often find myself looking at it beyond the glamour of seeing all my notes visually. you can use it to see how different notes may end up connected by following the jumps in nodes. 
 ## plugins I use
-most of these are just for personalizing your vault. as a grad student, the most important plugin is zotero integration. The rest I like because they make my life a bit easier and make my vault more enjoyable to work in. Here are the [[obsidian plugins that i use]] 
+most of these are just for personalizing your vault. as a grad student, the most important plugin is zotero integration | [[setting up zotero integration]]. The rest I like because they make my life a bit easier and make my vault more enjoyable to work in. Here are the [[obsidian plugins that i use]]. 
 ## workflow for daily notes
 I have a daily note template with date as the title, a to do section, and notes section with different topics divided by subheaders. 
 

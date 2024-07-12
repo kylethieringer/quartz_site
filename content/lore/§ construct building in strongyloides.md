@@ -11,6 +11,7 @@ My rotation project was focused on comparing free-living strongyloides to parasi
 
 In my rotation, I generated a construct to ablate AFD neurons in strongyloides. I designed a plasmid to express miniSOG ([[PH-miniSOG optogenetically ablates cells]]) and injected into strongyloides. With more time, I would start to answer the question of whether thermosensory neurons (AFD) are important for survival and fecundity by ablating those neurons and seeing how this changes these variables. 
 
+#🐛 | [[⨳ projects]]
 ## literature
 [[Schafer2016]]
 [[Bryant.etal2018]]

@@ -1,8 +1,6 @@
 ---
 type: daily note
 ---
-# {{title}}
-
 ## tasks
 ---
 

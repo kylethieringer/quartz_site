@@ -19,6 +19,7 @@ Understanding the electrophysiological properties of these neurons gets us close
 
 Now that I have the technique down, I will continue this work to produce a full dataset of the 13a neurons.
 
+#🐛 | [[⨳ projects]]
 ## timeline
 an example timeline of how a lab notebook may look:
 

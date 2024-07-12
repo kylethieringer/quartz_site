@@ -22,6 +22,7 @@ timestamp: 2023-12-11 00:54
 ---
 **behavior**
 [[ATR preparation]]
+[[how to make fly tethers]]
 
 **imaging**
 [[maui setup protocol]]

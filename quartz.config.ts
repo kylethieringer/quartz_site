@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-547NB9D4WK"
     },
     baseUrl: "notes.kylethieringer.com",
     ignorePatterns: ["private", "templates", ".obsidian"],

@@ -17,6 +17,7 @@ there are many great online resources for new drosopholists ([drosophila workers
 - making crosses
 - collecting virgins
 ## tools
+- [[genetic toolbox in flies]]
 - quick introduction to optogenetics
 - quick introduction to RNAi
 ## behavior

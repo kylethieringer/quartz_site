@@ -37,7 +37,7 @@ const config: QuartzConfig = {
           secondary: "#41550A",
           tertiary: "#B6A12B",
           highlight: "D9E5E2",
-          textHighlight: "#fff23688",
+          textHighlight: "#D9E5E2",
         },
       // default color scheme
       // colors: {
@@ -71,13 +71,8 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
+      Plugin.SyntaxHighlighting(),
+      Plugin.HardLineBreaks(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, enableYouTubeEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, enableYouTubeEmbed: true}),

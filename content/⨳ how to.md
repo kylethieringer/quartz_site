@@ -6,7 +6,6 @@ timestamp: 2023-12-11 00:54
 ## experimental
 ---
 [[§ so you want to be a drosopholist]]
-[[§ so you want to be a nemotologist]]
 ## academic
 ---
 [[take meaningful notes]]
@@ -32,9 +31,13 @@ timestamp: 2023-12-11 00:54
 [[electrophysiology preparation]]
 [[how to pull electrodes]]
 
+**connectomics**
+[[neurotransmitter predictions in fanc]]
+[[how to find drivers for candidate neurons]]
+[[how to find labeled neurons in the connectome]]
+
 **misc**
 [[extracellular saline protocol]]
-
 ## computational
 ---
 [[how to run jupyter on hpc cluster]]

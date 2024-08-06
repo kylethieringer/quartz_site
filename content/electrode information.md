@@ -1,3 +1,0 @@
-## cleaning electrode
-
-## patch electrodes

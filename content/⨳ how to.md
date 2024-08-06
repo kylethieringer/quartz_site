@@ -8,39 +8,44 @@ timestamp: 2023-12-11 00:54
 [[§ so you want to be a drosopholist]]
 ## academic
 ---
+[[how to use obsidian]]
 [[take meaningful notes]]
 [[how I read academic papers]]
-[[how to keep a lab notebook]]
+[[how to keep a digital lab notebook]]
+
+[[NSF GRFP resources]]
+
 [[applying to grad school]]
 [[pick an advisor with good mentorship style]]
 [[pick an advisor who is good at science]]
 [[how to ask for feedback]]
 [[how to give feedback]]
-[[how to use obsidian]]
-## protocols
+
+
+## behavior
 ---
-**behavior**
 [[ATR preparation]]
 [[how to make fly tethers]]
-
-**imaging**
+## imaging
+---
 [[maui setup protocol]]
 [[point spread function protocol]]
-
-**electrophysiology**
+## electrophysiology
+---
 [[electrophysiology preparation]]
 [[how to pull electrodes]]
-
-**connectomics**
+## connectomics
+---
 [[neurotransmitter predictions in fanc]]
 [[how to find drivers for candidate neurons]]
 [[how to find labeled neurons in the connectome]]
-
-**misc**
+## solutions
+---
 [[extracellular saline protocol]]
 ## computational
 ---
 [[how to run jupyter on hpc cluster]]
+[[how to use rclone to sync remote drives]]
 ## misc
 ---
 [[how I made this site]]

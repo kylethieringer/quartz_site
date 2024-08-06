@@ -24,7 +24,7 @@ I like to use obsidian for my task management as well as taking notes. These fee
 > ```
 ```
 
-my daily notes build up my foundation of [[how to keep a lab notebook]] this process will probably morph over time as I find my flow and will not look the same for everyone. 
+my daily notes build up my foundation of [[how to keep a digital lab notebook]] this process will probably morph over time as I find my flow and will not look the same for everyone. 
 
 ## workflow for literature notes
 obsidian is used for [[how I read academic papers]] and take notes on them. this may also morph and change overtime but for now is working ok. 

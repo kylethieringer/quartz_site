@@ -36,6 +36,8 @@ this is one suggestion for using obsidian to keep a lab notebook
 ## hub notes
 [[use hub notes to organize projects]]
 
+## version controlling
+text files are not immutable like pen on paper unfortunately. If changes are made, that edit history gets lost and may lead to issues if someone in the future were to go back through my lab notebook. In an effort to keep track of changes and prevent any confusion or question of integrity, I am pushing my entire folder of notes to a private github repo. This serves two purposes. It keeps track of all of the changes Ive made and timestamps them. it also serves as another backup in case I lose any notes. 
 
 #🐛 | [[⨳ how to]]
 ## references

@@ -5,7 +5,7 @@ timestamp: 2024-08-05 17:53
 ---
 there are a number of ways to synchronize and backup data across different cloud services or from a local machine to a cloud storage drive. [rclone](https://rclone.org/) is one solution that is pretty easy to setup and only requires one line of code to synch data in two different places. 
 
-## setup
+## install
 first, make sure rclone is installed on your device. 
 
 on mac you can install using [homebrew](https://brew.sh/)
@@ -15,6 +15,7 @@ $ brew install rclone
 
 see [these instructions](https://rclone.org/install/) for other operating systems
 
+## configure
 then you will need to configure rclone to have access to any of your remote drives. there are detailed instructions on how to do that for many, many different options [here](https://rclone.org/docs/#configure). The steps involve using the APIs and essentially generating a key and password so rclone can safely transfer data.
 
 [google drive configuration](https://rclone.org/drive/)

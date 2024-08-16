@@ -11,7 +11,7 @@ timestamp: 2023-12-11 00:54
 [[how to use obsidian]]
 [[take meaningful notes]]
 [[how I read academic papers]]
-[[how to keep a digital lab notebook]]
+[[how I keep a digital lab notebook]]
 
 [[NSF GRFP resources]]
 

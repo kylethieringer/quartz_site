@@ -20,8 +20,6 @@ timestamp: 2023-12-11 00:54
 [[pick an advisor who is good at science]]
 [[how to ask for feedback]]
 [[how to give feedback]]
-
-
 ## behavior
 ---
 [[ATR preparation]]

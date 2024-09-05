@@ -47,13 +47,22 @@ git push
 ## my weekly routine
 it takes a minute, you just have to remember to do it!
 
+on my workstation:
 ```
-$ rclone sync dropbox:notes ~/repos/labbook_backup/notes
-$ cd ~/repos/labbook_backup
+$ rclone sync dropbox:notes ~/repos/labnotebook_backup/notes
+$ cd ~/repos/labnotebook_backup
 $ git add .
 $ git commit -m "today's date"
 $ git push
 ```
 
+on my laptop:
+```
+$ rclone sync dropbox:notes gdrive:backups/notes
+$ cd /Users/kyle/Library/CloudStorage/GoogleDrive-........./backups
+$ git add .
+$ git commit -m "today's date"
+$ git push
+```
 
 #🥚 [[⨳ how to]] | [[how I keep a digital lab notebook]]

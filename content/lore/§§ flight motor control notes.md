@@ -1,3 +1,8 @@
+---
+title: §§ flight motor control notes
+publish: "true"
+timestamp: 2024-09-09 17:38
+---
 organizing notes i take just to keep track of things for now
 ## background
 - [[model organisms for studying insect flight]]

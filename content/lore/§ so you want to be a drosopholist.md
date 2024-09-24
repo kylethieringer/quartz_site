@@ -11,6 +11,7 @@ there are many great online resources for new drosopholists ([drosophila workers
 - gene markers
 - balancer chromosomes
 - recombination
+- mutations
 ## fly pushing
 - fly life cycle
 - maintaining stocks

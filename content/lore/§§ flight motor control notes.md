@@ -25,3 +25,5 @@ organizing notes i take just to keep track of things for now
 - [[coordinated activity of the flight power muscles are critical for flight]]
 ## examples of flight cessation
 - [[bio robotic research coarsely demonstrate flight cessation with implanted neural stimulations in large insects]]
+## connectomics
+- [[asymmetry and inconsistencies in the connectome]] - why dvm2 gets little input. right vs left asymmetry

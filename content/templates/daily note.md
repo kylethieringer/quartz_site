@@ -4,5 +4,8 @@ type: daily note
 ## tasks
 ---
 
-## notes
+## project
+---
+
+## project
 ---

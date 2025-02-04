@@ -18,6 +18,8 @@ timestamp: 2023-12-11 00:54
 - [[pick an advisor who is good at science]]
 - [[forming a supervisory committee]]
 
+- [[how to give a short scientific presentation]]
+
 - [[how to ask for feedback]]
 - [[how to give feedback]]
 - [[NSF GRFP resources]]

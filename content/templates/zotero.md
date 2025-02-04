@@ -17,10 +17,9 @@ status:
 > {{bibliography}}
 
 > [!NOTE] ABSTRACT
-> {%- if abstractNote %}
-> {{abstractNote}} {% else %} {{summaryNote}}
-> {%- endif %} 
-
+> {%- if abstractNote %}{{abstractNote| striptags | replace("Summary", "")}} 
+> {% else %} {{summaryNote| replace('\t', '0')}}
+> {%- endif%} 
 ## fleeting notes
 ---
 {% persist  "notes"%} 

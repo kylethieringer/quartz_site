@@ -1,5 +1,5 @@
 ---
-title: ⨳ projects
+title: ⨳ topics
 publish: "true"
 timestamp: 
 tags:
@@ -18,12 +18,12 @@ here are topic pages that help organize the rest of the notes in this vault.
 
 ## lab meetings
 ---
-[[§ tuthill lab meetings]]
-[[§ ahmed lab meetings]]
+[[§ lab meetings]]
 ## class / seminars
 ---
-[[§ nbio seminars]]
-[[§ psych seminars]]
+[[§ neuro seminars]]
+[[§ misc seminars]]
+
 ## misc
 ---
 [[§ NURP projects]]

@@ -11,7 +11,7 @@ as we learn more about the brain, we need language to identify the regions we ta
 **note** : the hierarchy labels are slightly different in the [[allen brain atlas]]
 
 
-#🐛  #🌱 | [[§ neuro 502]]
+#🐛  #🌱 | [[neuro 502]]
 ## references
 ---
-[[§ neuro 502]] lecture material - nick steinmetz
+[[neuro 502]] lecture material - nick steinmetz

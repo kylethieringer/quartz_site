@@ -33,4 +33,3 @@ i will not be publishing data, results, or anything from my lab notebook. I dont
 
 ---
 if you're enjoying this space, [consider supporting me ](https://ko-fi.com/A0A51A2U1T)
-

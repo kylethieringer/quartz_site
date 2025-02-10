@@ -1,0 +1,54 @@
+---
+title: CSHL Neurobiology of Drosophila Session VIII talks
+publish: "true"
+timestamp: 2023-12-11 09:59
+---
+
+- **The expression of ionotropic receptor in drosophila larvae cool  
+cells alters temperature sensitivity in hypertonic environment**
+	- Hua Bai
+	- studying cool cells in larvae
+	- larva prefer to stay at 24C
+	- there are cool and warm cells in the DOG (?) that help the larva theromotax
+	- A and B type cool cells
+		- IR25a and IR93a are the cool receptors
+		- IR21a is the tuning center for cooling cells
+	- hyptertonic conditions - put larva in sucrose causes stress and loss of B cool cells
+		- this is an issue because this is how most people collect larva for experiments
+	- overexpression of IR93a strengthens expression of B cells
+- **Essential elements of radical pair magnetosensitivity in Drosophila**
+	- Adam Bradlaugh
+	- radical pair mechanism of magnetism....
+	- expressing cryptochrome (CRY) and magnetic field causes cell to fire more
+	- if you load the cell with FAD, cell is more potentiated and demonstrated that FAD is helping to make the radical pair in cells
+	- with enough FAD, the cell can become sensitive to magnetic fields
+	- FAD binds to CRY and this might be the evolutionary mechanism for magneto sensing
+	- experiments were done in larva and they would change magnetic fields and larva would change orientation in response.
+- **Hunger- and thirst-sensing neurons modulate a neuroendocrine network to coordinate sugar and water ingestion**
+	- Amanda J. Gonzalez-Segarra (Kristin Scott lab)
+	- regulate thirst and hunger through ISNs in the SEZ
+		- thirst = water
+		- hunger = sugar
+	- 104 post synaptic targets all in the SEZ and SMP
+		- pulled out one called the Bilateral T shaped cell
+	- ISNs inhibit the bilateral T shaped cell
+		- they used ArcLight -- not sure what this tool is
+	- sugar and water ingestion is regulated by BiT and CCAP cells
+- **Biophysical and molecular bases of activation and adaptation in Johnston’s organ neurons**
+	- Stephen Holtz (Rachel Wilson Lab)
+	- 500 JONs that express 2 different TRP channels
+	- recording JONs with ephys while manually moving the antenna with a piezo
+	- JONs input are the stretching of the cilia in the antenna
+	- neighboring JONs have similar inputs but different adaptation rates
+	- there is input driven by tension of the cilia and this results in transduction 
+		- tension causes spiking in the JONs then the tension has to loosen again
+	- but just like a rubber band that stretches and then returns to baseline there is an overshoot in the loosening and then they have to stretch a little more again which causes another little bit of spiking in the JONs
+	- nan-inv and nompC required for diversity of responses in JONs and the retension behavior
+- **Sensory correlates of electrotaxis in the Drosophila larva**
+	- David Tadres
+	- asking if larva can electrotax and move to negative side of the chamber
+		- basically used a glorified electrophoresis box and they could change the polarity of the box
+	- when you flip the polarity of the box, the larva switches direction
+	- Gr66a required for the electrotaxis
+		- can detect changes in the direction of the electric field
+		- depolarizes when facing the anode - like a "stop" neuron

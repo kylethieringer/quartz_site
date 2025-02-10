@@ -1,0 +1,95 @@
+---
+aliases: session III talks
+title: CSHL Neurobiology of Drosophila Session III talks
+publish: "true"
+timestamp: 2023-12-11 09:58
+---
+
+- A circuit for a looming responsive descending neuron, DNp03, in D.mel
+	- Haley Croke
+	- looming evoked flight maneuvers are driven by DNp03
+	- same looming stim can evoke many different behaviors all controlled by different DNs
+	- DNp03 responds to loom ipsilaterally and cares about fast looms
+	- wing motor neurons are downstream (depress wings to initiate turn)
+	- flies with no DNp03 activation do not turn during flight
+	- neck is also downstream perhaps for gaze stabilization
+- A gut-brain circuit regulates sugar ingestion in Drosophila
+	- Xinyue Cui (Yapici lab)
+	- gut brain axis regulates sugar ingestion
+	- Ingestion neurons (IN1) regulate ingestion (12 neurons)
+		- activate when feeding, strongest activity in hungry flies
+		- receive input from sugar sensitive neurons that express Gr43a
+	- Gr43a is the only sugar taste receptor gene thats also expressed in the gut
+	- they imaged the gut neurons in vivo
+	- IN1 output to crop duct gating neurons which gate food going into the stomach
+	- so pathway is -- Gr43a (gut) - IN1 (brain) - CDG (gut)
+- Long term neuropeptide modulation of pC1 neurons and female sexual drive through pyrexia TRP channel
+	- Do-Hyoung Kim
+	- female sexual drive controlled by pC1
+	- the decision to mate is driven by motivation and internal state
+	- sexual maturation driven in part by changing levels of Juvenile Hormone
+	- decrease in motivation post mating driven by sex peptide
+	- SAG activity increases over time after mating (SP inhibits SAG)
+	- pC1 is a good readout for the internal state of the female and receives male courtship stimuli input
+		- the excitability changes during maturation and this might be driven by cAMP levels
+	- used CRE activity as an indicator of drive
+	- DH44 receptors required for pC1-CRE activity
+	- there is positive feedback in 2 neurons that express both DH44 receptor types in pC1 neurons
+	- looked for CRE downstream cation channels and found pyrexia and knockdown in mature virgins gets rid of drive
+- ==The same neuron in different brains--Testing the effect of genetic background on the functionality of individual neurons==
+	- Alexandre Leitao
+	- there is phenotypic variation within species which can be due to genes and environment
+	- there is a lot of variation in response to looming stimulus in flies
+		- they can freeze or flee and this is mediated by DNp09
+	- used the DGRP from bloomington which is a collection of inbred lines all originated from wild caught flies in the USA
+		- inhibiting DNp09 doesnt always reduce freezing in all fly lines tested due to different genetic background but they dont know the mechanisms of why yet
+- Dynamic temporal coding in an olfactory circuit
+	- Kristyn Lizbinski
+	- lateral horn does odor processing
+	- interested in LHLN called AV4a1
+		- receive a ton of inputs from DM1
+		- AV4a1 is activated by acetic acid and not by apple cider vinegar
+	- however, DM1 strongly activated by apple cider vinegar. So theres a mismatch
+	- ACV and acetic acid have similar PN representation but the activity levels in those PNs are different
+	- blockade of inhibition reveals activation from other odors
+	- inhibition selectively tunes the odor responses
+	- AV4a1 integrates odors over time in a supralinear way
+- ==Neural circuit mechanisms for halting in Drosophila==
+	- Neha Sapkal (Salil Bidaye lab)
+	- there is a preprint on biorxiv for this talk
+	- how do halting circuits interact with walking circuits
+	- BPN, DNp09, and MDN all drive walking in a certain direction
+	- BRK neurons (halt neurons) override all walking neurons and the fly stops
+		- if activated mid stride, the fly will finish the step but no more.
+	- BRK has 2 output regions, the brain and the VNS
+	- Using decapitated flies, they drove walking then activated BRK and this still overrides the walking 
+		- so its the VNS BRK that are important for the behavior
+	- BRK is also recruited during grooming
+	- there is a BRK neuron in each segment in the VNS for each leg.
+		- helps to determine which leg is used during walking
+	- silencing BRK causes the flies to tip over
+		- BRK is important for stability especially during grooming
+- Higher order connectivity explains functional properties of visual circuitry
+	- Iris Titos
+	- studying substance use disorder in flies
+	- flies develop an amphetamine time dependent preference
+	- PAM cluster required for the time preference
+	- dietary protein activates gut secratory cells and extra protein diminishes amphetamine preference
+	- gut tachykinin mediates peptone protection agains amphetamine preference
+	- Dietary effect on PAM neurons
+		- high protein decreases PAM activity
+		- and tachykinin is required for this effect
+- Mechanosensory and command contributions to the grooming sequence
+	- Shingo Yoshikawa
+	- there is a sequence of actions during grooming
+	- MGT activation (they named this neuron after back scratching in Japanese) drives thoracic grooming and overrides head grooming
+	- silencing reducing thoracic grooming
+	- has inputs from T1 and T2 and the output is T3
+	- have synapses with thoracic sensory neurons
+	- MGT is not involved with back leg rubbing even though it always follows thoracic grooming
+- Revealing the brain-wide representation of the visuomotor transformation
+	- Tom Clandinin
+	- whole brain imaging using BIFROST to register the brain
+	- neural activity is spatially structured in relation to movement in the brain
+	- turning is an asymmetric signal in the brain
+	- there is an asymmetric signal that shows up 10 seconds before a turn happens that predicts which way the fly will turn

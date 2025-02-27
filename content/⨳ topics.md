@@ -15,7 +15,6 @@ here are topic pages that help organize the rest of the notes in this vault.
 [[§ construct building in strongyloides]] 
 [[§ population constraints on individuals]]
 [[§ waggling]]
-
 ## lab meetings
 ---
 [[§ lab meetings]]
@@ -24,6 +23,9 @@ here are topic pages that help organize the rest of the notes in this vault.
 [[§ neuro seminars]]
 [[§ misc seminars]]
 
+## knowledge
+---
+[[⨳ how to]]
 ## misc
 ---
 [[§ NURP projects]]

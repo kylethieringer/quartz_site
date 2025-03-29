@@ -8,7 +8,7 @@ here are topic pages that help organize the rest of the notes in this vault.
 ## projects
 ---
 **current**
-[[§ flight cessation]]
+[[§ flight control]]
 
 **past**
 [[§ electrophysiology of a reflex circuit]] 
@@ -22,7 +22,6 @@ here are topic pages that help organize the rest of the notes in this vault.
 ---
 [[§ neuro seminars]]
 [[§ misc seminars]]
-
 ## knowledge
 ---
 [[⨳ how to]]

@@ -10,9 +10,9 @@ author: [[kyle thieringer]]
 
 science accessibility is important to me. I want to experiment with this platform as a means of scientific communication and transparency. 
 
-as a developing scientist, I am continually witnessing how academia is built on capitalism. knowledge is capital. my goal for this space is to abolish the boundaries between the elite academy and everyday people. through sharing my knowledge here, it becomes social capital, and that's when it gains power. 
+as a developing scientist, I am continually witnessing how academia is built on capitalism and the exploitation of knowledge. my goal for this space is to abolish the boundaries established by the elite academy. through sharing what I learn here, it becomes social capital, and that's when i believe it gains most power. 
 
-[[lore/mimir]] is my personal wiki. By publishing these notes, I hope that my [[thoughts transmute to knowledge with lore drops]]. I cant really predict what might be useful to others, so Im just dumping what has been useful to me (for example [[⨳ how to]]). Plus, it's so much easier to share a website link to notes rather than exporting from obsidian.
+[[lore/mimir]] is my personal wiki. by publishing these notes, I hope that my [[thoughts transmute to knowledge with lore drops]]. I cant really predict what might be useful to others, so Im just dumping what has been useful to me (for example [[⨳ how to]]). Plus, it's so easy to share a website link.
 
 if you have thoughts about anything I've written or not written let [[kyle thieringer|me]] know! 
 
@@ -22,7 +22,6 @@ links to other notes are bolded and will show a page preview when you hover over
 
 ---
 **next up**
-- [ ] add more context to this homepage
 - [ ] update [[§ so you want to be a drosopholist]]
 - [ ] update grad school notes
 - [ ] update connectomics notes

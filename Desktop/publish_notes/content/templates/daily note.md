@@ -1,5 +1,0 @@
----
-type: daily note
----
-## project
----

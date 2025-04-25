@@ -29,17 +29,12 @@ status:
 ## highlights
 ---
 {% for annotation in annotations -%} 
-    {%- if annotation.annotatedText -%} 
-    "=={{annotation.annotatedText}}==”[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}}) 
-    {%- endif %} 
+    {%- if annotation.annotatedText -%} "=={{annotation.annotatedText}}==”[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}}) {%- endif %}
     {%- if annotation.imageRelativePath -%}
     ![[{{annotation.imageRelativePath}}]][Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}}) 
     {%- endif %} 
-
 {% if annotation.comment %} 
 {{annotation.comment}} 
 {% endif %} 
 {% endfor -%}
-
-
 #📚 

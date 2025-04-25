@@ -27,7 +27,7 @@ timestamp: 2024-06-25 16:07
 ---
 %% begin notes %% 
 quantified and characterized LC neurons by activating and measuring behavioral responses
-
+[[LC neuron types each capture specific visual features]]
 %% end notes %% 
 ## highlights
 ---

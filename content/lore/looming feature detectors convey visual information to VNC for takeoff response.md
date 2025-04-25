@@ -3,7 +3,7 @@ title: looming feature detectors convey visual information to VNC for takeoff re
 publish: "true"
 timestamp: 2024-06-28 13:21
 ---
-looming circuits have been well studied for many years. the visual information about the looming stimulus is detected by different groups of LCs, including [[LPLC2]] and LC4. | [[LCs convey specific visual features to the brain]]. These LCs directly synapse onto the giant fiber descending neuron | [[the giant fiber receives looming visual input from LPLC2]]. 
+looming circuits have been well studied for many years. the visual information about the looming stimulus is detected by different groups of LCs, including [[LPLC2]] and LC4. | [[LC neuron types each capture specific visual features]]. These LCs directly synapse onto the giant fiber descending neuron | [[the giant fiber receives looming visual input from LPLC2]]. 
 
 the [[giant fiber]] then connects to circuits in the VNC to initiate takeoff. 
 

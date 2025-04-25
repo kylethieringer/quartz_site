@@ -40,7 +40,7 @@ timestamp: 2024-06-28 13:24
 [[looming feature detectors convey visual information to VNC for takeoff response]]
 - looming circuits have been well studied
 	- 2 projection neurons from optic lobes are looming feature detectors and synapse onto giant fiber descending neuron which activates motor neurons in VNC to initiate takeoff 
-	- [[Wu.etal2016]] mapped the [[LCs convey specific visual features to the brain]]
+	- [[Wu.etal2016]] mapped the [[LC neuron types each capture specific visual features]]
 	- [[Klapoetke.etal2017]] figured out [[the giant fiber receives looming visual input from LPLC2]]  
 - 
 - optogenetically activated 133 DN split gal4 lines to find landing control neurons\

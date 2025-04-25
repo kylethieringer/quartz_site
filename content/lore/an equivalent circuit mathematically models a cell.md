@@ -9,7 +9,7 @@ the lipid bilayer gives the cells [[capacitance]] but it is a leaky capacitor be
 
 ion channels give membrane conductance but each channel must be considered separately.
 
-![[equivalent circuit of a neuron .png |350]]
+![[equivalent circuit of a neuron.png|350]]
 #🥚 
 ## references
 ---

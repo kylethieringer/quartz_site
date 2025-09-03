@@ -5,8 +5,6 @@ timestamp: 2024-06-18 14:24
 ---
 male adult nerve cord
 
-
-
 #🥚 
 ## references
 ---

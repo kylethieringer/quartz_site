@@ -1,13 +1,16 @@
 ---
-paper_title: "Degenerate Neuronal and Circuit Mechanisms Important for Generating Rhythmic Motor Patterns"
-year: '2024'
-authors: "Ronald L Calabrese, Eve Marder"
+paper_title: Degenerate Neuronal and Circuit Mechanisms Important for Generating Rhythmic Motor Patterns
+year: "2024"
+authors: Ronald L Calabrese, Eve Marder
 type: literature note
-note date: '2025-04-18'
+note date: 2025-04-18
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Calabrese.Marder2024
+publish: "true"
+timestamp: 2025-06-01 15:50
 ---
 # Degenerate Neuronal and Circuit Mechanisms Important for Generating Rhythmic Motor Patterns
 **authors**: *Ronald L Calabrese, Eve Marder*
@@ -31,10 +34,11 @@ quantitative models can serve 2 purposes:
 - validation of insights from experimental work
 - building models to ask how a nervous system can achieve something to motivate experiments
 
+[[parallel CPG pathways enhance resilience of a system]]
+
 degenerate mechanisms = multiple sets of parameters that can give rise to similar circuit dynamics
 - exist for single neurons and circuit functions
 - degenerate mechanisms enhance resilience and robustness of a system
-- 
 
 postinhibitory rebound
 - a hallmark of CPG neurons is producing bursts of spikes after inhibition

@@ -12,7 +12,6 @@ status: true
 publish: "true"
 timestamp: 2023-12-11 01:12
 ---
-
 # Input density tunes Kenyon cell sensory responses in the Drosophila mushroom body
 **authors**: *Maria Ahmed, Adithya E. Rajagopalan, Yijie Pan, Ye Li, Donnell L. Williams, Erik A. Pedersen, Manav Thakral, Angelica Previero, Kari C. Close, Christina P. Christoforou, Dawen Cai, Glenn C. Turner, E. Josephine Clowney*
 **doi**: 10.1016/j.cub.2023.05.064

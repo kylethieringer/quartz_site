@@ -1,13 +1,16 @@
 ---
-paper_title: "Regulation of Spatial Selectivity by Crossover Inhibition"
-year: '2013'
-authors: "Jon Cafaro, Fred Rieke"
+paper_title: Regulation of Spatial Selectivity by Crossover Inhibition
+year: "2013"
+authors: Jon Cafaro, Fred Rieke
 type: literature note
-note date: '2025-04-20'
+note date: 2025-04-20
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Cafaro.Rieke2013
+publish: "true"
+timestamp: 2025-06-01 15:50
 ---
 # Regulation of Spatial Selectivity by Crossover Inhibition
 **authors**: *Jon Cafaro, Fred Rieke*

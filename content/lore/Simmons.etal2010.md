@@ -1,13 +1,16 @@
 ---
 paper_title: "Escapes with and without preparation: The neuroethology of visual startle in locusts"
-year: '2010'
-authors: "Peter J. Simmons, F. Claire Rind, Roger D. Santer"
+year: "2010"
+authors: Peter J. Simmons, F. Claire Rind, Roger D. Santer
 type: literature note
-note date: '2025-04-11'
+note date: 2025-04-11
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Simmons.etal2010
+publish: "true"
+timestamp: 2025-06-01 15:51
 ---
 # Escapes with and without preparation: The neuroethology of visual startle in locusts
 **authors**: *Peter J. Simmons, F. Claire Rind, Roger D. Santer*

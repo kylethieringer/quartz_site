@@ -1,13 +1,16 @@
 ---
-paper_title: "Wide-Field Feedback Neurons Dynamically Tune Early Visual Processing"
-year: '2014'
-authors: "John C. Tuthill, Aljoscha Nern, Gerald M. Rubin, Michael B. Reiser"
+paper_title: Wide-Field Feedback Neurons Dynamically Tune Early Visual Processing
+year: "2014"
+authors: John C. Tuthill, Aljoscha Nern, Gerald M. Rubin, Michael B. Reiser
 type: literature note
-note date: '2025-04-20'
+note date: 2025-04-20
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Tuthill.etal2014
+publish: "true"
+timestamp: 2025-06-01 15:50
 ---
 # Wide-Field Feedback Neurons Dynamically Tune Early Visual Processing
 **authors**: *John C. Tuthill, Aljoscha Nern, Gerald M. Rubin, Michael B. Reiser*

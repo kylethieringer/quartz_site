@@ -1,13 +1,16 @@
 ---
-paper_title: "Predictability and hierarchy in <i>Drosophila</i> behavior"
-year: '2016'
-authors: "Gordon J. Berman, William Bialek, Joshua W. Shaevitz"
+paper_title: Predictability and hierarchy in <i>Drosophila</i> behavior
+year: "2016"
+authors: Gordon J. Berman, William Bialek, Joshua W. Shaevitz
 type: literature note
-note date: '2025-04-11'
+note date: 2025-04-11
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Berman.etal2016
+publish: "true"
+timestamp: 2025-06-01 15:50
 ---
 # Predictability and hierarchy in <i>Drosophila</i> behavior
 **authors**: *Gordon J. Berman, William Bialek, Joshua W. Shaevitz*

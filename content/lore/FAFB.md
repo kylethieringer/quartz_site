@@ -5,7 +5,7 @@ timestamp: 2024-06-18 13:47
 ---
 
 FAFB - Full adult female brain
-EM volume of a fly brain. [[FlyWire]] uses FAFB
+EM volume of a fly brain. [[flywire]] uses FAFB
 
 
 #🥚 

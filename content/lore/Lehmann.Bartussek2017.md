@@ -29,7 +29,7 @@ timestamp: 2024-09-06 13:17
 
 **great review article** -- really helps with inspiration for language and motivation of why flight is interesting and complex and worthwhile to study. highlights the many physiological challenges in neural control of flight, in particular the metabolic demands, and the sensorimotor timing to properly execute flight motor programs. 
 
-precision of motor control is crucial for evolutionary success!
+precision of motor control is crucial for evolutionary success!r
 
 - in invertebrates, all muscle fibers within muscle are simultaneously driven by the same or few motor neurons -- see paper for references
 	- this keeps the question simpler and lower dimensional, more approachable and easier to understand.

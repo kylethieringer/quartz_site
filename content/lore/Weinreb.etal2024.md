@@ -1,13 +1,16 @@
 ---
 paper_title: "Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics"
-year: '2024'
-authors: "Caleb Weinreb, Jonah E. Pearl, Sherry Lin, Mohammed Abdal Monium Osman, Libby Zhang, Sidharth Annapragada, Eli Conlin, Red Hoffmann, Sofia Makowska, Winthrop F. Gillis, Maya Jay, Shaokai Ye, Alexander Mathis, Mackenzie W. Mathis, Talmo Pereira, Scott W. Linderman, Sandeep Robert Datta"
+year: "2024"
+authors: Caleb Weinreb, Jonah E. Pearl, Sherry Lin, Mohammed Abdal Monium Osman, Libby Zhang, Sidharth Annapragada, Eli Conlin, Red Hoffmann, Sofia Makowska, Winthrop F. Gillis, Maya Jay, Shaokai Ye, Alexander Mathis, Mackenzie W. Mathis, Talmo Pereira, Scott W. Linderman, Sandeep Robert Datta
 type: literature note
-note date: '2025-04-25'
+note date: 2025-04-25
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Weinreb.etal2024
+publish: "true"
+timestamp: 2025-06-01 15:49
 ---
 # Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics
 **authors**: *Caleb Weinreb, Jonah E. Pearl, Sherry Lin, Mohammed Abdal Monium Osman, Libby Zhang, Sidharth Annapragada, Eli Conlin, Red Hoffmann, Sofia Makowska, Winthrop F. Gillis, Maya Jay, Shaokai Ye, Alexander Mathis, Mackenzie W. Mathis, Talmo Pereira, Scott W. Linderman, Sandeep Robert Datta*

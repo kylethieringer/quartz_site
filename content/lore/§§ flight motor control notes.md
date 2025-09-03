@@ -24,6 +24,7 @@ organizing notes i take just to keep track of things for now
 - [[splayed DLMn firing stabilizes wingbeat frequency]]
 - [[the DLMns compose a minimal flight CPG]]
 - [[weak electrical coupling between DLMns favors splayed firing pattern]]
+- [[coordinated activity of the flight power muscles are critical for flight]]
 ## descending control
 - [[three dopamine neurons in the VNC coordinate wings during flight]]
 - [[looming stimulus evokes opposite behaviors depending on behavioral state]]
@@ -33,7 +34,7 @@ organizing notes i take just to keep track of things for now
 - [[neuromodulation of flight]]
 - [[ascending histamine neurons participate in flight feedback loop]]
 - [[octopamine activity increases during flight]]
-- [[coordinated activity of the flight power muscles are critical for flight]]
+
 ## examples of flight cessation
 - [[bio robotic research coarsely demonstrate flight cessation with implanted neural stimulations in large insects]]
 ## connectomics

@@ -1,13 +1,16 @@
 ---
-paper_title: "Single-cell type analysis of wing premotor circuits in the ventral nerve cord of <i>Drosophila melanogaster</i>"
-year: '2023'
-authors: "Erica Ehrhardt, Samuel C Whitehead, Shigehiro Namiki, Ryo Minegishi, Igor Siwanowicz, Kai Feng, Hideo Otsuna, FlyLight Project Team, Geoffrey W Meissner, David Stern, Jim Truman, David Shepherd, Michael H Dickinson, Kei Ito, Barry J Dickson, Itai Cohen, Gwyneth M Card, Wyatt Korff"
+paper_title: Single-cell type analysis of wing premotor circuits in the ventral nerve cord of <i>Drosophila melanogaster</i>
+year: "2023"
+authors: Erica Ehrhardt, Samuel C Whitehead, Shigehiro Namiki, Ryo Minegishi, Igor Siwanowicz, Kai Feng, Hideo Otsuna, FlyLight Project Team, Geoffrey W Meissner, David Stern, Jim Truman, David Shepherd, Michael H Dickinson, Kei Ito, Barry J Dickson, Itai Cohen, Gwyneth M Card, Wyatt Korff
 type: literature note
-note date: '2025-04-22'
+note date: 2025-04-22
 modified: 
 summary: 
-tags: []
-status:
+tags: 
+status: 
+title: Ehrhardt.etal2023
+publish: "true"
+timestamp: 2025-06-01 15:51
 ---
 # Single-cell type analysis of wing premotor circuits in the ventral nerve cord of <i>Drosophila melanogaster</i>
 **authors**: *Erica Ehrhardt, Samuel C Whitehead, Shigehiro Namiki, Ryo Minegishi, Igor Siwanowicz, Kai Feng, Hideo Otsuna, FlyLight Project Team, Geoffrey W Meissner, David Stern, Jim Truman, David Shepherd, Michael H Dickinson, Kei Ito, Barry J Dickson, Itai Cohen, Gwyneth M Card, Wyatt Korff*

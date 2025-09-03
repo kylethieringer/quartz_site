@@ -38,7 +38,7 @@ timestamp: 2023-12-11 00:54
 ## connectomics
 ---
 - [[neurotransmitter predictions in fanc]]
-- [[how to find drivers for candidate neurons]]
+- [[how to find genetic drivers for candidate neurons]]
 - [[how to find labeled neurons in the connectome]]
 ## solutions
 ---
@@ -47,6 +47,7 @@ timestamp: 2023-12-11 00:54
 ---
 - [[how to run jupyter on hpc cluster]]
 - [[how to use rclone to sync remote drives]]
+- [[how to use marimo]]
 ## misc
 ---
 - [[how I made this site]]

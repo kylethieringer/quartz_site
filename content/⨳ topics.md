@@ -9,6 +9,7 @@ here are topic pages that help organize the rest of the notes in this vault.
 ---
 **current**
 [[§ flight control]]
+[[§ neural systems and behavior]]
 
 **past**
 [[§ electrophysiology of a reflex circuit]] 
@@ -20,8 +21,7 @@ here are topic pages that help organize the rest of the notes in this vault.
 [[§ lab meetings]]
 ## class / seminars
 ---
-[[§ neuro seminars]]
-[[§ misc seminars]]
+[[§ seminars]]
 ## knowledge
 ---
 [[⨳ how to]]

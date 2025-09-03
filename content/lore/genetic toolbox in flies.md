@@ -8,6 +8,8 @@ timestamp: 2024-07-26 10:54
 [[chrimson]] (and its many variants)
 [[gtACR]] - 2 diff versions
 
+CAMPARI - irreversible conversion of green to red protein with coincidence of UV and neural activity
+
 
 
 #🥚
